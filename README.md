@@ -4,6 +4,7 @@ During this lab, we will work towards using your Arduino sensors in your final p
 **This is not a lab to submit**, just suggested steps to take to understand how to implement Arduino with your game. 
 
 ## Structure of Lab Session
+0. Review Deadlines, Requirements, Etc. 
 1. Discussion of each person's project & proposed choice of sensor. Why is your sensor appropriate for your project?
 2. Break into groups around each sensor. Solo work with group support. 
 3. Back to group. Discuss what learned, what still need to do. If you made progress, share it. 
@@ -21,7 +22,7 @@ Here are some suggested tasks and focus questions for you to focus on during the
  
 ### Recommended Prior Work
 #### Learn to use your sensor
-If you did not finish the tutorial where you learn to the relevant sensors, do the relevant input / output lab. The sensors are explained via tutorials in Lab 8 and Lab 9, as well as in various tutorials and the DVD that came with your kit. 
+If you did not finish the tutorial where you learn to the relevant sensors, do the relevant input / output lab. The sensors are explained via tutorials in [Lab 8](https://github.com/UMaine-NMD-211-Fall-2020/Lab8-GeneralInputSensors) and [Lab 9](https://github.com/UMaine-NMD-211-Fall-2020/Lab9-OutputSensors), as well as in various tutorials and the DVD that came with your kit. 
 
 #### Learn to manipulate Serial Data
 If you did not finish [Lab 10](https://github.com/UMaine-NMD-211-Fall-2020/Lab10-ArduinoToProcessing), which was where we learned how to use the serial port and connect Processing with Arduino, I recommend working on that lab first. 
